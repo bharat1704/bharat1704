@@ -17,4 +17,4 @@
 ✨ “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
 
 > Thank you for visiting!  
-> I’m always curious to learn from like-minded people. 🙌
+> Curious by nature, I thrive on understanding how people think and turning ideas into impactful solutions. 🙌
