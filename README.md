@@ -12,6 +12,8 @@
 📧 Email: [sainibharat945@gmail.com](mailto:sainibharat945@gmail.com)    
 🌍 LinkedIn: [Bharat Mali](https://www.linkedin.com/in/bharat-mali-0505b2168/)
 
+**Tech Stack** 
+
 ---
 
 ✨ “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
