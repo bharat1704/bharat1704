@@ -2,7 +2,7 @@
 
 🌟 **Welcome to my GitHub profile!**
 
-- 🔭  I’m curious about the DevOps, the MERN Stack, Cybersecurity, and Web3 technologies.  
+- 🔭  I’m curious about the DevOps and the MERN Stack.  
 - 🌱 Currently honing my skills in the **MERN stack & Devops** and experimenting with modern development practices.  
 - 🎯 My mission is to build impactful solutions and contribute to projects that challenge the status quo.  
 
