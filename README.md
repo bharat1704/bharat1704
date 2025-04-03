@@ -2,7 +2,7 @@
 
 🌟 **Welcome to my GitHub profile!**
 
-- 🔭  I’m curious about the DevOps and the MERN Stack.  
+- 🔭  I’m curious about DevOps.  
 - 🌱 Currently honing my skills in the **Node.js stack & Devops** and experimenting with modern development practices.  
 - 🎯 My mission is to build impactful solutions and contribute to projects that challenge the status quo.  
 
